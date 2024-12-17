@@ -40,8 +40,8 @@ This is a **React.js** and **TypeScript**-based e-commerce product list manageme
 
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/your-username/product-list-manager.git
-   cd product-list-manager
+   git clone https://github.com/your-username/project-2.git
+   cd project-2
 
 2. **Install dependencies:**:  
    ```bash
